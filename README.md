@@ -14,7 +14,7 @@ Build CRUD website social  with **NodeJS**, postgresql and deploy on docker
 ### Library :
 
 -   [NODEJS](https://www.npmjs.com/package/NODE)
-- ![Database Diagram](https://github.com/sontung0511/Instagram_NodeJS/blob/main/uploads/database.jpg)
+- ![Database Diagram](https://github.com/sontung0511/Instagram_NodeJS/blob/main/uploads/ERD_Instagram.png)
 
 ---
 
